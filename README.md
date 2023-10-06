@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Debasmita Dutta</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
+<img align="right" alt="code" width="300" src="https://media.tenor.com/UONjvx6XGu0AAAAM/family-guy-peter-family-guy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debasmitadutta07&label=Profile%20views&color=0e75b6&style=flat" alt="debasmitadutta07" /> </p>
 
